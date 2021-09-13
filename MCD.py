@@ -1,4 +1,4 @@
-a=int(input("inserisci il numero a: "))
+a=int(input("write a number: "))
 b=int(input("inserisci il numero b: "))
 
 
